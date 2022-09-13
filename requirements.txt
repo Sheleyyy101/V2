@@ -1,0 +1,12 @@
+pysocks
+httpx
+requests
+colorama
+aiohttp
+colorama
+requests
+httpx
+screen
+progressbar
+tqdm
+multiprocess

@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "checker-proxy": "^1.0.1",
+    "ciphers": "^1.0.0",
+    "cloudflare-bypasser": "^0.0.3",
+    "cloudscraper": "^4.6.0",
+    "crypto-random-string": "^5.0.0",
+    "events": "^3.3.0",
+    "fake-useragent": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "geoip-country": "^4.1.21",
+    "get-url-title": "^2.0.0",
+    "hcaptcha-solver": "^1.0.2",
+    "https-proxy-agent": "^5.0.1",
+    "net": "^1.0.2",
+    "net-socket": "^1.1.0",
+    "proxy-checker": "^1.0.0",
+    "rand-referer": "^1.0.0",
+    "randomstring": "^1.2.2",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "sleep": "^6.3.0",
+    "string-progressbar": "^1.0.4",
+    "superagent": "^8.0.0",
+    "superagent-proxy": "^3.0.0",
+    "sync-request": "^6.1.0",
+    "url-status-code": "^2.0.0",
+    "zombie": "^6.1.4"
+  }
+}
